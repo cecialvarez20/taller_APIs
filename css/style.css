@@ -1,0 +1,15 @@
+body {
+    background-image: url("pokemongrass.jpg");
+    font-family:system-ui;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    text-shadow: 3px 3px black;
+}
+
+label {
+    font-size: 1.5rem;
+    color: black
+}
